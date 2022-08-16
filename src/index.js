@@ -26,7 +26,7 @@ async function fromSheet(){
         auth: client
     })
 
-    const spreadsheetId = "1q6dEUGYi_dV92RDgimC7ZteXK1HW7dZUFakYBZMkImo"
+    const spreadsheetId = "process.env.SPREADID"
 
     const getRows = googleSheets.spreadsheets.values.get({
         auth,
@@ -50,7 +50,7 @@ async function writeToSheet(counter, numD){
         auth: client
     })
 
-    const spreadsheetId = "1q6dEUGYi_dV92RDgimC7ZteXK1HW7dZUFakYBZMkImo"
+    const spreadsheetId = "process.env.SPREADID"
 
     //Write to the file
     await googleSheets.spreadsheets.values.update({
@@ -85,13 +85,13 @@ const client = new DiscordJS.Client({
 
 client.on("ready", () => {
     console.log(`Logged in as ${client.user.tag}!`)
-    const guildID = '799536262604128267'
+    const guildID = 'process.env.GUILD'
     const guild = client.guilds.cache.get(guildID)
     let commands
 
     //Discord channels
-    postChan = client.channels.cache.find(channel => channel.id === '995479367591403611')
-    modChan = client.channels.cache.find(channel => channel.id === '995483752077738036')
+    postChan = client.channels.cache.find(channel => channel.id === 'process.env.POST')
+    modChan = client.channels.cache.find(channel => channel.id === 'process.env.MOD')
 
     //Check if guild exists
     if(guild) commands = guild.commands
