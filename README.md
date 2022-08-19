@@ -7,7 +7,7 @@
 <br>
 
 <details>
-	<summary>Usage</summary>
+	<summary style="color=red">Usage</summary>
 	
 </details>
 <hr>
