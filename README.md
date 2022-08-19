@@ -7,13 +7,13 @@
 <br>
 
 <details>
-	## <summary>Usage</summary>
+	<summary>Usage</summary>
 	
 </details>
 <hr>
 
 <details>
-	## <summary>Requirements</summary>
+	##<summary>Requirements</summary>
 	
 </details>
 <hr>
