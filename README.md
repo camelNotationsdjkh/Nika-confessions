@@ -1,19 +1,20 @@
 ![](images/titleBanner2.png)
 
+
 ![](images/newBan.png)
 
-#Setup
-##Requirements
+# Setup
+## Requirements
 Node.js (1.13.1)
 
 ---
-##Usage
+## Usage
 ---
-##Installation + Deployment
+## Installation + Deployment
 ---
 
 
-#FAQ
+# FAQ
 ---
-#Attributions
+# Attributions
 
