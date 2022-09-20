@@ -23,6 +23,7 @@ Recommendations for hosting:
 
 ## Requirements
 node.js (v.16.17.0)
+--
 npm (v.16.0.2)
 dotenv (v.16)
 discord.js (14.3.0)
