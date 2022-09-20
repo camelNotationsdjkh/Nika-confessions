@@ -25,27 +25,30 @@ Recommendations for hosting:
 node.js (v.16.17.0)
 
 npm (v.16.0.2)
+
 dotenv (v.16)
+
 discord.js (14.3.0)
 
 
-Optional: An GoogleAPI account for storing a confession counter. You could keep a local variable that does just this, but the confession counter most be manually updated for any new instance of the bot. This can cause problems, for example, if the bot needs to be taken down for updates.
+Optional: An GoogleAPI account for storing a confession counter (which uses Google sheets). You could keep a local variable that does just this, but the confession counter most be manually updated for any new instance of the bot. This can cause problems, for example, if the bot needs to be taken down for updates.
 
 ### These requirements aren't strict - the bot will work with less recent versions
 ---
 
-## Usage
-
-
-Run this code in terminal at local directory (where you kept the project):
+## Installation + Deployment
+1. Download all the files as a ZIP (go to `Code` -> `Download as ZIP`)
+2. Extract all files
+3. Get An API key for your bot and place into the .env folder under KEY
+    * This is also a good time to setup your GoogleAPI so the bot can interact with it
+4. Run this code in terminal at local directory (where you kept the project):
 ```npm install discord.js dotenv```
+5. Deploy on your hosting service (use web worker node index.js)
+
+Finally check if the bot is online on the server!
 
 
-## Deployment
-
-
-
-# FAQ
+# Q&A
 
 # Attributions
 
