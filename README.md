@@ -23,13 +23,11 @@ Recommendations for hosting:
 
 ## Requirements
 node.js (v.16.17.0)
---
+
 npm (v.16.0.2)
---
 dotenv (v.16)
---
 discord.js (14.3.0)
---
+
 
 Optional: An GoogleAPI account for storing a confession counter. You could keep a local variable that does just this, but the confession counter most be manually updated for any new instance of the bot. This can cause problems, for example, if the bot needs to be taken down for updates.
 
@@ -41,7 +39,6 @@ Optional: An GoogleAPI account for storing a confession counter. You could keep 
 
 Run this code in terminal at local directory (where you kept the project):
 ```npm install discord.js dotenv```
-
 
 
 ## Deployment
