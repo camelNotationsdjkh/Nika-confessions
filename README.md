@@ -72,7 +72,7 @@ Finally check if the bot is online on the server!
 ```How do users send images?```
 > Currently, the img-url only accepts web-urls and is an optional parameter in the `/confess` command. In the future, I plan to make it so that user can send attachments instead.
 
-``Does the bot support emojis in text```
+```Does the bot support emojis in text```
 > Yes, anything that shows up on discord will show up in the confession.
 
 # Attributions
