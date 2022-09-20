@@ -22,6 +22,7 @@ graph TD
 
 ### Important Reminder:
 You will need to host Nika | Confessions bot yourself.
+
 Recommendations for hosting:
 - Google Web services (free)
 - Heroku (paid)
