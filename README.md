@@ -1,7 +1,13 @@
 ![](images/titleBanner2.png)
 ---
 
+
+
+
 ![](images/newBan.png)
+
+
+
 
 # Setup
 ### Simplified flowchart of how it works:
@@ -54,6 +60,15 @@ Finally check if the bot is online on the server!
 ![https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s](https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s)
 
 # Q&A
+
+```I don't want to use GoogleAPI & Google Sheets to keep track of the confession counter, how do I disable?```
+
+> You will have to maually delete API calls to Google and configure `num_deny` and `counter` to not depend on the GoogleAPI feauture. I will release a new version soon that will have this already done!
+
+```The bot is offline```
+> This could be due to a number of reasons: invalid API key, your hosting service not running `node index.js`, and a whole bunch more. I would reccomend going into your hosting services error log to see if there are any warnings. If they orginate from your end, try to fix them (StackOverflow is your best friend!), and if you think it's a problem with the bot, send a bug notifications here!
+
+
 
 # Attributions
 
