@@ -6,7 +6,7 @@
 # Setup
 How it works:
 
-```flow
+```mermaid
 st=>start: User sends confession to Nika
 op=>operation: Moderators see the message (user details are hidden)
 cond=>condition: Moderators determine if the message is appropriate 
