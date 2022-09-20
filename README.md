@@ -4,7 +4,7 @@
 ![](images/newBan.png)
 
 # Setup
-How it works:
+### Simplified flowchart of how it works:
 
 ```mermaid
 graph TD
