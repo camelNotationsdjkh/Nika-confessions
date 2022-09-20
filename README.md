@@ -54,10 +54,10 @@ Optional: An GoogleAPI account for storing a confession counter (which uses Goog
 Finally check if the bot is online on the server!
 
 ### If you did decide to use the GoogleAPI, you will need to configure crenditials.js
-![Here is a helpful link: https://www.youtube.com/watch?v=P16uA1Hl4DI](https://www.youtube.com/watch?v=P16uA1Hl4DI)
+[Here is a helpful link: https://www.youtube.com/watch?v=P16uA1Hl4DI](https://www.youtube.com/watch?v=P16uA1Hl4DI)
 
 ## If you're new to discord.js, follow this YouTube tutorial series
-![https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s](https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s)
+[https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s](https://www.youtube.com/watch?v=JMmUW4d3Noc&t=414s)
 
 # Q&A
 
