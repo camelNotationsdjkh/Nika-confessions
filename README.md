@@ -69,7 +69,13 @@ Finally check if the bot is online on the server!
 ```The bot is offline```
 > This could be due to a number of reasons: invalid API key, your hosting service not running `node index.js`, and a whole bunch more. I would reccomend going into your hosting services error log to see if there are any warnings. If they orginate from your end, try to fix them (StackOverflow is your best friend!), and if you think it's a problem with the bot, send a bug notifications here!
 
+```How do users send images?```
+> Currently, the img-url only accepts web-urls and is an optional parameter in the `/confess` command. In the future, I plan to make it so that user can send attachments instead.
 
+``Does the bot support emojis in text```
+> Yes, anything that shows up on discord will show up in the confession.
 
 # Attributions
+Creative Commons Non-commericial license
 
+If you have any new feauture you would like to add, fork this repo and send in a pull request!
