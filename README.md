@@ -7,14 +7,11 @@
 How it works:
 
 ```mermaid
-st=>start: User sends confession to Nika
-op=>operation: Moderators see the message (user details are hidden)
-cond=>condition: Moderators determine if the message is appropriate 
-end=>end: The confession is approved
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
+graph TD
+    A[User sends confession to Nika] -->B(Moderators see the message)
+    B --> |User details are hidden| C{Moderators determine if the message is appropriate}
+    C -->|Yes| D[The confession is sent to a designated server]
+    C -->|No| E[The confession is denied]
 ```
 
 
