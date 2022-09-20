@@ -1,6 +1,4 @@
 ![](images/titleBanner2.png)
-<hr>
-<br>
 
 ![](images/newBan.png)
 
