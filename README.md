@@ -3,41 +3,19 @@
 <br>
 
 ![](images/newBan.png)
-<hr>
-<br>
-# Hi
-<details>
-	<summary>Usage</summary>
-	
-</details>
-<hr>
 
-<details>
-	##<summary>Requirements</summary>
-	
-</details>
-<hr>
+#Setup
+##Requirements
+Node.js (1.13.1)
 
-<details>
-	<summary>Installation + Deployment</summary>
-	
-</details>
-<hr>
+---
+##Usage
+---
+##Installation + Deployment
+---
 
-<details>
-	<summary>FAQ</summary>
-	
-</details>
-<hr>
 
-<details>
-	<summary>Attributions</summary>
-	
-</details>
-<hr>
+#FAQ
+---
+#Attributions
 
-<details>
-	<summary>FAQ</summary>
-	
-</details>
-<hr>
