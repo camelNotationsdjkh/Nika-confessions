@@ -4,11 +4,6 @@
 
 
 
-![](images/newBan.png)
-
-
-
-
 # Setup
 ### Simplified flowchart of how it works:
 
