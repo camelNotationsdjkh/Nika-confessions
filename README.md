@@ -76,6 +76,12 @@ Finally check if the bot is online on the server!
 ```Does the bot support emojis in text```
 > Yes, anything that shows up on discord will show up in the confession.
 
+# Why did you make this? What did you learn
+#### (Not important to the setup of the bot!)
+UBC confession's Facebook page, a historic place where students went to anonymously send in their secrets/crushes/rants, was closing down after years of operation. I couldn't let the legacy of such a integral part of UBC history die so I suggested that we create a similar confessions channel on our year's engineering channel. While the moderators and admin were receptive, they were rightfully worried about the implications of letting users send in whatever they want. The bots that were available didn't have (good) moderation feautures and so the idea would likely go no where — useless I made it myself.
+
+So, with nothing significant to do during summer, I got to work knowing full well that I hadn't touched either Javascript or Python in over a year and had lots to learn if I wanted to make this project happen. Luckily I had so so so much help from [@Elio](https://github.com/ElioDiNino/) who had experience with making Discord bots and mentored me along the way. This is definitely one of my proudest personal projects because of this is the first time I ever published something that people use and actually enjoy using. It's a feeling of satisfaction that's hard to describe, and it's something that will likely stick with me as I continue on with my career!
+˜
 # Attributions
 Creative Commons Non-commericial license
 
