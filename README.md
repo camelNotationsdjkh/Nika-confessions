@@ -1,7 +1,8 @@
 ![](images/titleBanner2.png)
----
 
-
+# What is it?
+## Completely Anonymous • Messages approved by moderators • Discord Embeds + Image support
+Nika | Confessions allows servers to have an outlet for all the the juicy things that can't be said (written) out loud! Though worry not, Nika also comes with a easy-to-use GUI that lets moderators and admin to approve/deny confessions (confessionista details hidden of course)
 
 
 # Setup
@@ -14,6 +15,12 @@ graph TD
     C -->|Yes| D[The confession is sent to a designated server]
     C -->|No| E[The confession is denied]
 ```
+
+## Video demonstration: [https://www.youtube.com/watch?v=Ythwfm46YKQ](https://www.youtube.com/watch?v=Ythwfm46YKQ)
+Note some feautures have been modified since the video was made (new commands + a much better looking '/help' response!)
+
+## See for yourself!
+The Nika Bot is active on the UBC 25' ENG server, with over 500 confessions at the time this was written. It's a public server that's open to anyone! Check out the latest version of Nika by joining here: [https://discordservers.com/server/799536262604128267](https://discordservers.com/server/799536262604128267)
 
 ### Important Reminder:
 You will need to host Nika | Confessions bot yourself.
@@ -33,7 +40,7 @@ dotenv (v.16)
 discord.js (14.3.0)
 
 
-Optional: An GoogleAPI account for storing a confession counter (which uses Google sheets). You could keep a local variable that does just this, but the confession counter most be manually updated for any new instance of the bot. This can cause problems, for example, if the bot needs to be taken down for updates.
+Optional: An GoogleAPI account for storing a confession counter (which uses Google sheets). You could keep a local variable that does just this, but the confession counter must be manually updated for any new instance of the bot. This can cause problems, for example, if the bot needs to be taken down for updates.
 
 ### These requirements aren't strict - the bot will work with less recent versions
 ---
