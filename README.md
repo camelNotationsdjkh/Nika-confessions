@@ -1,7 +1,7 @@
 ![](images/titleBanner2.png)
 
 # What is it?
-## Completely Anonymous • Messages approved by moderators • Discord Embeds + Image support
+#### Completely Anonymous • Messages approved by moderators • Discord Embeds + Image support
 Nika | Confessions allows servers to have an outlet for all the the juicy things that can't be said (written) out loud! Though worry not, Nika also comes with a easy-to-use GUI that lets moderators and admin to approve/deny confessions (confessionista details hidden of course)
 
 
